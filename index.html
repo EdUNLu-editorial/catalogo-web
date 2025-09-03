@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca de Enlaces</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body class="flex-col">
+    <div id="appLoadingSpinner" class="spinner"></div>
+
+    <!-- Contenedor Principal de la App -->
+    <div id="appContainer" class="flex-col h-full app-container" style="visibility: hidden;">
+        
+        <!-- ENCABEZADO Y FILTROS FIJOS -->
+        <div class="flex-shrink-0 bg-gray-100 shadow-sm z-10">
+            <header id="appHeader" class="header-main-container">
+                <div class="flex items-center">
+                    <img id="appLogoImg" alt="Logo" style="width: 1.75rem; height: 1.75rem; margin-right: 0.5rem;">
+                    <h1 class="text-2xl font-bold"><font color="#13a253">Colecciones</font></h1>
+                </div>
+                <div class="flex items-center mt-4 sm:mt-0 header-actions">
+                    <input type="search" id="searchInput" placeholder="Buscar por título o autor..." class="form-input w-full search-input rounded-full">
+                </div>
+            </header>
+            <div class="px-4 py-4 flex flex-col gap-4 filter-bar-container">
+                <div id="collectionFilters" class="flex flex-wrap gap-2 filter-sort-controls">
+                    <button data-collection="all" class="btn btn-sm btn-secondary">Mostrar Todos</button>
+                    <button data-collection="Ciencias" class="btn btn-sm btn-secondary">Ciencias</button>
+                    <button data-collection="Sociedad en movimiento" class="btn btn-sm btn-secondary">Sociedad en movimiento</button>
+                    <button data-collection="Aulas" class="btn btn-sm btn-secondary">Aulas</button>
+                </div>
+                <div id="sortControls" class="flex flex-wrap items-center gap-2 filter-sort-controls">
+                    <span class="text-sm font-medium mr-2">Ordenar por:</span>
+                    <button id="sortAlpha" data-sort="alpha" class="btn btn-sm btn-secondary">A-Z</button>
+                    <button id="sortDate" data-sort="date" class="btn btn-sm btn-secondary">Fecha</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- CONTENIDO CON SCROLL -->
+        <main id="libraryView" class="flex-grow-1 p-4 md:p-6 overflow-y-auto bg-gray-50 main-content">
+            <div id="libraryMessage" class="message-base mb-4"></div>
+            <div id="libraryGrid" class="library-grid">
+                <!-- Los elementos de la biblioteca se insertarán aquí -->
+            </div>
+            <p id="emptyLibraryMessage" class="text-center text-gray-500 hidden" style="margin-top: 2rem;">
+                Tu biblioteca está vacía o no se pudo cargar.
+            </p>
+        </main>
+
+        <footer id="appFooter" class="flex-shrink-0 text-center text-sm py-3 bg-gray-200 border-t">
+            <p><span id="year"></span> - EdUNLu</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+
+</body>
+</html>
