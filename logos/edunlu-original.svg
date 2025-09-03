@@ -3,8 +3,14 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#282828;}
-	.st1{fill:#009245;fill-opacity:0.949;}
+.st0 {
+fill: currentColor;
+}
+
+.st1 {
+  fill: currentColor;
+  fill-opacity: 1; /* o elimínalo si no necesitas transparencia */
+}
 </style>
 <g>
 	<path class="st0" d="M20.6,0.1L1.8,10.9l0,22.3L27.4,48l18.8-10.8l-4-2.3l-14.7,8.5L18.1,38v-8l-7,4l0-17.7L27,7.1l6.9,4l-15.8,9.2
