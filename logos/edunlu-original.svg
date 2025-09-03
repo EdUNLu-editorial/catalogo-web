@@ -4,11 +4,11 @@
 	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
 <style type="text/css">
 .st0 {
-fill: currentColor;
+fill: #13A253;
 }
 
 .st1 {
-  fill: currentColor;
+  fill: #13A253;
   fill-opacity: 1; /* o elimínalo si no necesitas transparencia */
 }
 </style>

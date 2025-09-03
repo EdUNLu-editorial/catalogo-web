@@ -15,16 +15,14 @@
 
         // --- Configuración ---
         const REMOTE_LIBRARY_CONFIG = {
-            baseUrl: "https://EdUNLu-editorial.github.io/CATALOGOWEB/",
+            baseUrl: "https://EdUNLu-editorial.github.io/catalogo-web/",
             indexFile: "datos/catalogo_edunlu.json"
         };
-        const LOGO_URL = "https://EdUNLu-editorial.github.io/CATALOGOWEB/logos/edunlu-original.svg";
+        const LOGO_URL = "https://EdUNLu-editorial.github.io/catalogo-web/logos/edunlu-original.svg";
         
         // Datos de ejemplo para el caso de fallo en la carga remota
         const MOCK_LIBRARY_INDEX = [
             { "id": "agendas-de-ordenamiento-ambiental-id", "title": "Agendas de ordenamiento ambiental", "author": "Nélida da Costa Pereira y María Cecilia Poggi", "collection": "Sociedad en movimiento", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/174/", "coverImageUrl": "covers/agendas-ordenamiento.gif", "publishDate": "2019-02-10" },
-            { "id": "matematicas-y-educacion-id", "title": "Matemáticas y educación", "author": "Beatriz V. D'Angelo", "collection": "Aulas", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/221/", "coverImageUrl": "covers/matematicas-y-educacion.gif", "publishDate": "2020-05-15" },
-            { "id": "fisica-para-el-aula-id", "title": "Física para el aula", "author": "Hernán E. Fernández y Laura P. Rosales", "collection": "Ciencias", "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/115/", "coverImageUrl": "covers/fisica-para-el-aula.gif", "publishDate": "2021-08-20" }
         ];
 
         // --- Funciones Auxiliares ---
