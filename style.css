@@ -230,9 +230,10 @@
                 margin-top: 0;
             }
             .filter-bar-container {
-                flex-direction: row;
-                justify-content: space-between;
-                align-items: center;
+            display: flex !important;
+            flex-direction: row !important;
+            justify-content: space-between;
+            align-items: center;
             }
             .search-input {
                 width: auto;
@@ -372,3 +373,4 @@
                 padding: 1.5rem;
             }
         }
+        
