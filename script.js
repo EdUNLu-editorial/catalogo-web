@@ -141,7 +141,7 @@
                 if (!response.ok) {
                     throw new Error(`Error en la red: ${response.statusText}`);
                 }
-                
+                // Coma
                 let rawText = await response.text();
                 const cleanedText = rawText.replace(/,\s*([\]}])/g, '$1');
                 remoteLibraryBooks = JSON.parse(cleanedText);
