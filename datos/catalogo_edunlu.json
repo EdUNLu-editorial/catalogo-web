@@ -131,6 +131,15 @@
         "coverImageUrl": "covers/TAPA-CATALOGO-GRIETA-VISUAL.gif",
         "publishDate": "2026-03-13"
     },
-    	{"id":"mucha-tela-para-cortar-cuestiones-de-gnero-desde-una-experiencia-colaborativa-internacional","title":"Mucha tela para cortar. Cuestiones de género desde una experiencia colaborativa internacional","author":"Fiorenza Deriu y Ana Nora Feldman","collection":"Ciencias","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/346","coverImageUrl":"covers/mucha-tela-para-cortar.jpg","publishDate":"2026-04-22"}
+    {"id":"mucha-tela-para-cortar-cuestiones-de-gnero-desde-una-experiencia-colaborativa-internacional","title":"Mucha tela para cortar. Cuestiones de género desde una experiencia colaborativa internacional","author":"Fiorenza Deriu y Ana Nora Feldman","collection":"Ciencias","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/346","coverImageUrl":"covers/mucha-tela-para-cortar.jpg","publishDate":"2026-04-22"},
 
+    {
+        "id": "aprender-alimentos",
+        "title": "Aprender mientras jugamos con los alimentos. Los beneficios de una alimentación saludable",
+        "author": "Cecilia Csernoch",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/348",
+        "coverImageUrl": "covers/aprender-con-los-alimentos.gif",
+        "publishDate": "2026-05-26"
+    }
 ]
