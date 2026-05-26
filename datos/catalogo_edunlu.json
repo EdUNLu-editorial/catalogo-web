@@ -132,7 +132,6 @@
         "publishDate": "2026-03-13"
     },
     {"id":"mucha-tela-para-cortar-cuestiones-de-gnero-desde-una-experiencia-colaborativa-internacional","title":"Mucha tela para cortar. Cuestiones de género desde una experiencia colaborativa internacional","author":"Fiorenza Deriu y Ana Nora Feldman","collection":"Ciencias","targetUrl":"https://www.edunlu.unlu.edu.ar/?q=node/346","coverImageUrl":"covers/mucha-tela-para-cortar.jpg","publishDate":"2026-04-22"},
-
     {
         "id": "aprender-alimentos",
         "title": "Aprender mientras jugamos con los alimentos. Los beneficios de una alimentación saludable",
@@ -140,6 +139,15 @@
         "collection": "Sociedad en movimiento",
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/348",
         "coverImageUrl": "covers/aprender-con-los-alimentos.gif",
+        "publishDate": "2026-05-26"
+    },
+    {
+        "id": "paisaje-sociolinguistico",
+        "title": "El paisaje sociolingüístico de la UNLu: lenguas, actores y fenómenos emergentes",
+        "author": "Rosana Pasquale y Daniela Quadrana",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/349",
+        "coverImageUrl": "covers/el-paisaje-sociolinguistico.gif",
         "publishDate": "2026-05-26"
     }
 ]
