@@ -149,5 +149,14 @@
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/349",
         "coverImageUrl": "covers/el-paisaje-sociolinguistico.gif",
         "publishDate": "2026-05-26"
+    },
+    {
+        "id": "conocimiento-ambiental",
+        "title": "Conocimiento Ambiental Aportes Teórico-Metodológicos para su construcción",
+        "author": "Daniel Lanson",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/350",
+        "coverImageUrl": "covers/conocimiento-ambiental.gif",
+        "publishDate": "2026-05-27"
     }
 ]
