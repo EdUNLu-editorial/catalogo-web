@@ -158,5 +158,14 @@
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/350",
         "coverImageUrl": "covers/conocimiento-ambiental.gif",
         "publishDate": "2026-05-27"
+    },
+    {
+        "id": "entre-ilusiones-y-frustraciones",
+        "title": "ENTRE ILUSIONES Y FRUSTRACIONES. Conferencias, declaraciones, acuerdos, mandatos, compromisos y pactos sobre el comercio internacional y el desarrollo desde la segunda posguerra: una selección de textos oficiales",
+        "author": "Elda Tancredi",
+        "collection": "Aulas",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/351",
+        "coverImageUrl": "covers/entre-ilusiones-y-frustraciones.gif",
+        "publishDate": "2026-06-16"
     }
 ]
