@@ -167,5 +167,14 @@
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/351",
         "coverImageUrl": "covers/entre-ilusiones-y-frustraciones.gif",
         "publishDate": "2026-06-16"
+    },
+    {
+        "id": "cuenca-rio-lujan-naturaleza-y-poblacion",
+        "title": "Cuenca del Río Luján: naturaleza y población",
+        "author": "Gustavo Buzai, Mariano Ferro y Natalia Ossana",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/352",
+        "coverImageUrl": "covers/cuenca-rio-lujan-naturaleza-y-poblacion.gif",
+        "publishDate": "2026-06-22"
     }
 ]
