@@ -10,7 +10,7 @@
         const sortControls = document.getElementById('sortControls');
         
         let currentCollectionFilter = 'all';
-        let currentSortMethod = 'date'; // 'alpha' o 'date'
+        let currentSortMethod = 'alpha'; // 'alpha' o 'date'
         let remoteLibraryBooks = [];
 
         // --- Configuración ---
