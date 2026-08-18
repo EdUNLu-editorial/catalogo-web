@@ -176,5 +176,14 @@
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/352",
         "coverImageUrl": "covers/cuenca-rio-lujan-naturaleza-y-poblacion.gif",
         "publishDate": "2026-06-22"
+    },
+    {
+        "id": "inquietudes-el-libro-de-un-fisico-curioso",
+        "title": "Inquietudes: El libro de un físico curioso",
+        "author": "Raúl Righini",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/354",
+        "coverImageUrl": "covers/inquietudes-el-libro-de-un-fisico-curioso.gif",
+        "publishDate": "2026-08-14"
     }
 ]
