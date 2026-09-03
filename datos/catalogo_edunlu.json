@@ -184,5 +184,14 @@
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/354",
         "coverImageUrl": "covers/inquietudes-el-libro-de-un-fisico-curioso.gif",
         "publishDate": "2026-08-14"
+    },
+    {
+        "id": "agricultura-familiar-y-agroecologia",
+        "title": "Agricultura familiar y agroecología. Sujetos, políticas y problemas en la provincia de Buenos Aires",
+        "author": "Fernanda González Maraschio",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/355",
+        "coverImageUrl": "covers/agricultura-familiar-y-agroecologia.gif",
+        "publishDate": "2026-09-3"
     }
 ]
