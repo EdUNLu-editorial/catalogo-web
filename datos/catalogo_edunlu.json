@@ -192,6 +192,25 @@
         "collection": "Ciencias",
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/355",
         "coverImageUrl": "covers/agricultura-familiar-y-agroecologia.gif",
-        "publishDate": "2026-09-3"
+        "publishDate": "2026-09-03"
+    },
+    {
+        "id": "la-mediatizacion-de-la-ensenanza-en-la-universidad",
+        "title": "La mediatización de la enseñanza en la universidad : un estudio sobre el rol tecnopedagógico",
+        "author": "Rosa Cicala y Gabriela Cruder",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/357",
+        "coverImageUrl": "covers/la-mediatizacion-de-la-ensenanza-en-la-universidad.gif",
+        "publishDate": "2026-10-02"
+    },
+    {
+        "id": "el-concepto-del-tiempo-en-arqueologia",
+        "title": "El concepto tiempo en arqueología: una exploración histórica y epistémica",
+        "author": "Fabián Bognanni",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/356",
+        "coverImageUrl": "covers/el-concepto-del-tiempo-en-arqueologia.gif",
+        "publishDate": "2026-10-02"
     }
+
 ]
