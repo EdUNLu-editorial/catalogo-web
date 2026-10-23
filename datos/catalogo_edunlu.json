@@ -211,6 +211,23 @@
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/356",
         "coverImageUrl": "covers/el-concepto-del-tiempo-en-arqueologia.gif",
         "publishDate": "2026-10-02"
+    },
+        {
+        "id": "marta-tome-reflexiones-acerca-de-la-educacion-intercultural-en-argentina",
+        "title": "Marta Tomé : reflexiones acerca de la educación intercultural en Argentina",
+        "author": "Nadia Tamara Chiaravalloti",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/359",
+        "coverImageUrl": "covers/marta-tome-reflexiones-acerca-de-la-educacion-intercultural-en-argentina.gif",
+        "publishDate": "2026-10-21"
+    },
+    {
+        "id": "juegos-y-actividades-para-el-dialogo-intercultural",
+        "title": "Juegos y actividades para el diálogo intercultural",
+        "author": "Marta Dora Tomé, Nadia Chiaravalloti, Efraín Condori, Verónica Hendel y Marcela Lucas",
+        "collection": "Sociedad en movimiento",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/358",
+        "coverImageUrl": "covers/juegos-y-actividades-para-el-dialogo-intercultural.gif",
+        "publishDate": "2026-10-21"
     }
-
 ]
