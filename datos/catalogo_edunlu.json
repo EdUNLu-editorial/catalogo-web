@@ -238,5 +238,14 @@
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/360",
         "coverImageUrl": "covers/entre-el-antiguo-testamento-y-la-biologia-molecular-una-breve-historia-de-la-leprologia.gif",
         "publishDate": "2026-11-06"
+    },
+    {
+        "id": "mujeres-que-hacen-historia-en-la-unlu",
+        "title": "Mujeres que hacen historia en la UNLu",
+        "author": "Mary Leguizamón, Florencia Cendali y Juan Carlos Fernicola",
+        "collection": "",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/361",
+        "coverImageUrl": "covers/mujeres-que-hacen-historia-en-la-unlu.gif",
+        "publishDate": "2026-11-06"
     }
 ]
