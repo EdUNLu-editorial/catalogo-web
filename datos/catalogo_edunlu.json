@@ -229,5 +229,14 @@
         "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/358",
         "coverImageUrl": "covers/juegos-y-actividades-para-el-dialogo-intercultural.gif",
         "publishDate": "2026-10-21"
+    },
+    {
+        "id": "entre-el-antiguo-testamento-y-la-biologia-molecular-una-breve-historia-de-la-leprologia",
+        "title": "Entre el antiguo testamento y la biología molecular: una breve historia de la leprología",
+        "author": "Enrique Fliess",
+        "collection": "Ciencias",
+        "targetUrl": "https://www.edunlu.unlu.edu.ar/?q=node/360",
+        "coverImageUrl": "covers/entre-el-antiguo-testamento-y-la-biologia-molecular-una-breve-historia-de-la-leprologia.gif",
+        "publishDate": "2026-11-06"
     }
 ]
